@@ -1,0 +1,17 @@
+.exchange-h2{
+    font-size: 50px;
+    color: #31b0a0;
+}
+
+.exchange-h4{
+    color: #45454d;
+}
+
+.btn-logout{
+    width: 100px;
+    height: 30px;
+    border-radius: .25em;
+    background-color: #31b0a0;
+    color: #fff;
+    margin-top: 20px;
+}

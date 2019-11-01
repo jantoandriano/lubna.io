@@ -1,0 +1,42 @@
+.logo{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.login-container{
+    text-align: center;
+}
+
+.input-code{
+    height: 50px;
+    width: 300px;
+}
+.input-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.footer{
+    display: flex;
+    /* text-align: center; */
+    justify-content: space-around;
+
+}
+
+.center{
+    text-align: center;
+}
+
+.footer-list{
+    display: flex;
+    list-style: none;
+}
+
+.pt{
+    padding-top: 30px;
+    font-weight: 500;
+}
